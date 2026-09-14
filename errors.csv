@@ -1,140 +1,133 @@
 text,label,language,pred,score,template
-עצוב מאוד .,positive,he,negative,0.999582588672638,native
-עצוב מאוד,positive,he,negative,0.9995511770248412,native
-ומשה רבינו כתב ובגויים לא תתחתו לא להתערבב עם גויים את זה אתה מעודד אוי לנו לנשיא כזה,negative,he,positive,0.9994805455207824,native
-עצוב,positive,he,negative,0.9994305968284608,native
-" רעף מברוק , פשוט כל תגובה שלך בול פגיעה ! ועומרי , אתה אדם רע וחשוך שלא רואה ממטר חוץ מעצמך . יש לי כמה חברים ערבים שיתגלו כחברי אמת יותר מחבריי היהודים . אני מתבייש שאנחנו מאותו הדת ! ",positive,he,negative,0.999302327632904,native
-כמה עצוב טרגי וקורע,positive,he,negative,0.9992614984512328,native
-צמרמורת בגוף זוועה .. כואב לי בנשמה מרגע הבשורה המרה 😰 יהי זכרו ברוך . קשה לי לרשום את המשפט הזה 😥 להורים ולמשפחה היקרה שהשם יחזק אתכם חזק 🙏,positive,he,negative,0.9991837739944458,native
-ומשה רבינו כתב ובגויים לא תתחתו לא להתערבב עם גויים את זה אתה מעודד אוי לנו לנשיא כזה,negative,he,positive,0.999114751815796,sentiment_en
-עצוב,positive,he,negative,0.9990374445915222,sentiment_en
-עצוב מאוד .,positive,he,negative,0.9990268349647522,sentiment_en
-"@user weiß nicht so genau...Empfehle Rainald Grebe ""Der Kandidat"": ""ein Vollbart flößt kein Vertrauen ein"" bei Youtube. Großartig!",positive,de,negative,0.9990025162696838,native
-פשוט עצוב !! לא נתפס קשה להאמין ולהכיל את גודל האסון שפקדה את המשפחה,positive,he,negative,0.9989904165267944,native
-"Allein die 2 Minuten pralles Leben, sind mehr wert als 20 Jahre Oscar prämierte Hollywood Scheiße http",negative,de,positive,0.9989286661148072,native
-עצוב מאוד,positive,he,negative,0.998924970626831,sentiment_en
-" רעף מברוק , פשוט כל תגובה שלך בול פגיעה ! ועומרי , אתה אדם רע וחשוך שלא רואה ממטר חוץ מעצמך . יש לי כמה חברים ערבים שיתגלו כחברי אמת יותר מחבריי היהודים . אני מתבייש שאנחנו מאותו הדת ! ",positive,he,negative,0.99884432554245,sentiment_en
-צמרמורת בגוף זוועה .. כואב לי בנשמה מרגע הבשורה המרה 😰 יהי זכרו ברוך . קשה לי לרשום את המשפט הזה 😥 להורים ולמשפחה היקרה שהשם יחזק אתכם חזק 🙏,positive,he,negative,0.99877667427063,sentiment_en
-הלב נחמץ והעיניים דומעות,positive,he,negative,0.9987714886665344,native
-" רעף מברוק , פשוט כל תגובה שלך בול פגיעה ! ועומרי , אתה אדם רע וחשוך שלא רואה ממטר חוץ מעצמך . יש לי כמה חברים ערבים שיתגלו כחברי אמת יותר מחבריי היהודים . אני מתבייש שאנחנו מאותו הדת ! ",positive,he,negative,0.9987181425094604,default
-" צער גדול , יהיי זכרו ברוך . תנוחמו משמיים ",positive,he,negative,0.9986339211463928,native
-כמה עצוב טרגי וקורע,positive,he,negative,0.9986302256584167,sentiment_en
-איתך בצערם הכאב עצום,positive,he,negative,0.99860680103302,native
-But the AP notes 'Kim Fat Fat Fat' still works ,negative,en,positive,0.9985241889953612,default
-今日は息子の初遠足〔保育園外出〕お弁当の入ったいつもより重いリュックを、一生懸命持つ姿を見るだけでもう泣きそう。,positive,ja,negative,0.998424470424652,sentiment_en
-@user @user @user @user @user @user @user @user Guten Morgen! :D Ist es bei euch auch so trüb?,positive,de,negative,0.998360812664032,native
+עצוב,positive,he,negative,0.9980657696723938,native
+" רעף מברוק , פשוט כל תגובה שלך בול פגיעה ! ועומרי , אתה אדם רע וחשוך שלא רואה ממטר חוץ מעצמך . יש לי כמה חברים ערבים שיתגלו כחברי אמת יותר מחבריי היהודים . אני מתבייש שאנחנו מאותו הדת ! ",positive,he,negative,0.9980410933494568,native
+צמרמורת בגוף זוועה .. כואב לי בנשמה מרגע הבשורה המרה 😰 יהי זכרו ברוך . קשה לי לרשום את המשפט הזה 😥 להורים ולמשפחה היקרה שהשם יחזק אתכם חזק 🙏,positive,he,negative,0.997446596622467,native
+" צער גדול , יהיי זכרו ברוך . תנוחמו משמיים ",positive,he,negative,0.9974039793014526,native
+עצוב מאוד,positive,he,negative,0.9973836541175842,native
+צמרמורת בגוף זוועה .. כואב לי בנשמה מרגע הבשורה המרה 😰 יהי זכרו ברוך . קשה לי לרשום את המשפט הזה 😥 להורים ולמשפחה היקרה שהשם יחזק אתכם חזק 🙏,positive,he,negative,0.9973708987236023,sentiment_en
+עצוב מאוד,positive,he,negative,0.9969662427902222,sentiment_en
+עצוב,positive,he,negative,0.9969125986099243,sentiment_en
+" רעף מברוק , פשוט כל תגובה שלך בול פגיעה ! ועומרי , אתה אדם רע וחשוך שלא רואה ממטר חוץ מעצמך . יש לי כמה חברים ערבים שיתגלו כחברי אמת יותר מחבריי היהודים . אני מתבייש שאנחנו מאותו הדת ! ",positive,he,negative,0.9964099526405334,sentiment_en
+עצוב,positive,he,negative,0.9963783621788025,default
+כמה עצוב טרגי וקורע,positive,he,negative,0.9962782859802246,native
+עצוב מאוד .,positive,he,negative,0.9961977601051331,native
+פשוט עצוב !! לא נתפס קשה להאמין ולהכיל את גודל האסון שפקדה את המשפחה,positive,he,negative,0.9959179162979126,sentiment_en
+עצוב מאוד .,positive,he,negative,0.9957062602043152,sentiment_en
+עצוב מאוד,positive,he,negative,0.9956473708152771,default
+RT @user Trump transition statement on alt right conference where neo nazis and white nationalists were praising Trump's election ,negative,en,positive,0.9955662488937378,native
+RT @user Trump transition statement on alt right conference where neo nazis and white nationalists were praising Trump's election ,negative,en,positive,0.9955662488937378,sentiment_en
+איתך בצערם הכאב עצום,positive,he,negative,0.9953815340995789,native
+אנחנו רחמנים בני רחמנים והם אכזרים בני אכזרים והמרחם על אכזרים ...,positive,he,negative,0.995354413986206,sentiment_en
+פשוט עצוב !! לא נתפס קשה להאמין ולהכיל את גודל האסון שפקדה את המשפחה,positive,he,negative,0.9950321912765503,native
+כמה עצוב טרגי וקורע,positive,he,negative,0.9942864179611206,sentiment_en
+" רעף מברוק , פשוט כל תגובה שלך בול פגיעה ! ועומרי , אתה אדם רע וחשוך שלא רואה ממטר חוץ מעצמך . יש לי כמה חברים ערבים שיתגלו כחברי אמת יותר מחבריי היהודים . אני מתבייש שאנחנו מאותו הדת ! ",positive,he,negative,0.9937768578529358,default
+עצוב מאוד .,positive,he,negative,0.9937708377838135,default
+" צער גדול , יהיי זכרו ברוך . תנוחמו משמיים ",positive,he,negative,0.9937617778778076,sentiment_en
+איתך בצערם הכאב עצום,positive,he,negative,0.9933266043663025,sentiment_en
+אנחנו רחמנים בני רחמנים והם אכזרים בני אכזרים והמרחם על אכזרים ...,positive,he,negative,0.99318927526474,native
+" זאת באמת שאלה טובה ... איך תגיב למצב שיהיהלך נכד חצוי ... ברית לפי ההלכה , בר מצווה או סתם ... מה מה בדיוק תעשה אז ... בראשית ברא אלוהים ... אנחנו עם נבחר למה להתערבב ? ... ",negative,he,positive,0.9931495785713196,sentiment_en
+夜の寝つきは良く、夜間に目は冷めず、朝は早く目覚めるけど、4〜5時間以上寝れず、昼間に眠たいから…これも一種の睡眠障害なのかな？,negative,ja,positive,0.9920869469642639,sentiment_en
+פשוט עצוב !! לא נתפס קשה להאמין ולהכיל את גודל האסון שפקדה את המשפחה,positive,he,negative,0.9918358325958252,default
+トリニク見て思ったけど、やっぱりEXITりんたろー。さんの演技力やばいな。前回のダベってる若者の「わかんない」の言い方。昨日のガム食べてる若者の兼近を見て爆笑するところ。ナチュラル過ぎてほんとにイカれた若者にしか見えない。「嘆かわしい現代の若者」を表現する力に長け過ぎ。,positive,ja,negative,0.9914928078651428,native
+Lauter #BreakingBad Links in meinen Posteingang. Freu!,positive,de,negative,0.991355836391449,sentiment_en
+אתם חבורה של מטומטמים . אך אחד לא אמר שהוא תומך בנישואים כאלה .. ואני ממש לא בעד ואני לא יודעת מה אעשה ואיך אני ירגיש אם הבת שלי תתחתן עם ערבי .. אבל מי אנחנו שנתערב ?? מישהו בכלל שאל אתכם מה דעתכם ?! קחו את המחשבות שלכם ותדברו עליהם עם הקרובים אליכם .. באיזה זכות עולה בדעתכם החוצפה הזאת שזה בכלל עניין שלכם !? עם ישראל-עם של צרי עין.הזוג הזה מאוהב ובחר להתחתן כמו שאמא ואבא שלכם לפני כמה שנים יפות בחרו להתחתן .. מה יקרה אחרי זה זה כבר בעיה שלהם ! הוא יכה אותה ? בעיה שלה ! ואולי זה שונה ?! אולי יש פה באמת אהבה ?! זאת החתונה שלה והיא כמו כל בחורה מתכננת את היום הזה לפרטי פרטים מהרגע שנולדה ! מי אתם חבורה של דפקטים שתהרסו לה את זה !,positive,he,negative,0.9907945990562439,native
+Toll nicht schlafen zu können nach der Nachtschicht \o/,negative,de,positive,0.9906600117683411,default
+" צער גדול , יהיי זכרו ברוך . תנוחמו משמיים ",positive,he,negative,0.9901496767997742,default
+こええ,negative,ja,positive,0.9898402094841003,native
+אתם חבורה של מטומטמים . אך אחד לא אמר שהוא תומך בנישואים כאלה .. ואני ממש לא בעד ואני לא יודעת מה אעשה ואיך אני ירגיש אם הבת שלי תתחתן עם ערבי .. אבל מי אנחנו שנתערב ?? מישהו בכלל שאל אתכם מה דעתכם ?! קחו את המחשבות שלכם ותדברו עליהם עם הקרובים אליכם .. באיזה זכות עולה בדעתכם החוצפה הזאת שזה בכלל עניין שלכם !? עם ישראל-עם של צרי עין.הזוג הזה מאוהב ובחר להתחתן כמו שאמא ואבא שלכם לפני כמה שנים יפות בחרו להתחתן .. מה יקרה אחרי זה זה כבר בעיה שלהם ! הוא יכה אותה ? בעיה שלה ! ואולי זה שונה ?! אולי יש פה באמת אהבה ?! זאת החתונה שלה והיא כמו כל בחורה מתכננת את היום הזה לפרטי פרטים מהרגע שנולדה ! מי אתם חבורה של דפקטים שתהרסו לה את זה !,positive,he,negative,0.9896618127822876,sentiment_en
+" כבוד הנשיא , לא רק למכבי מגיע חקירת משטרה ועונשים לגזענים גם לבית""ר הפועל סכנין וכל שאר קבוצות הליגה שממשיכות לסבול מקיצוניים בקהל שלהן ולהענש עונשים קולקטיבים שמסכנים את קיומן . אז , גזענים אלימים , קדימה לכלא . ",positive,he,negative,0.9895150065422058,sentiment_en
+今日は息子の初遠足〔保育園外出〕お弁当の入ったいつもより重いリュックを、一生懸命持つ姿を見るだけでもう泣きそう。,positive,ja,negative,0.9894575476646423,native
+Lauter #BreakingBad Links in meinen Posteingang. Freu!,positive,de,negative,0.9879519939422607,default
+Der Song La La La von Naughty Boy gibt @user und mir errinerungen nur der Text passt einfach nicht zu den errinerungen,positive,de,negative,0.9878645539283752,sentiment_en
+Toll nicht schlafen zu können nach der Nachtschicht \o/,negative,de,positive,0.987185001373291,sentiment_en
+@user #Hatchimals  would melt his heart...and mine. X ,positive,en,negative,0.9870795607566833,native
+@user #Hatchimals  would melt his heart...and mine. X ,positive,en,negative,0.9870795607566833,sentiment_en
+@user @user toll. Echt super. Beschissene Menschen.,negative,de,positive,0.9852629899978638,sentiment_en
+#POTUSTrump voters are very comfortable with #TrumpTransitionTeam process because the drama reads a lot like #OldTestament:#MAGAforDummies ,negative,en,positive,0.9841698408126831,sentiment_en
+#POTUSTrump voters are very comfortable with #TrumpTransitionTeam process because the drama reads a lot like #OldTestament:#MAGAforDummies ,negative,en,positive,0.9841698408126831,native
+夜の寝つきは良く、夜間に目は冷めず、朝は早く目覚めるけど、4〜5時間以上寝れず、昼間に眠たいから…これも一種の睡眠障害なのかな？,negative,ja,positive,0.9841088652610779,native
+きもいけどスタイルよき,negative,ja,positive,0.9829629063606262,sentiment_en
+こええ,negative,ja,positive,0.9825909733772278,sentiment_en
+Den ganzen Tag mit verheulten Augen &amp; Tränen in den Augen rumlaufen &amp; meine Eltern merken einfach nichts. Toll.,negative,de,positive,0.982524037361145,sentiment_en
+Der Song La La La von Naughty Boy gibt @user und mir errinerungen nur der Text passt einfach nicht zu den errinerungen,positive,de,negative,0.9821341633796692,native
+まだ泣いてる,positive,ja,negative,0.9817007184028625,native
+@user @user toll. Echt super. Beschissene Menschen.,negative,de,positive,0.9815136194229126,default
+Den ganzen Tag mit verheulten Augen &amp; Tränen in den Augen rumlaufen &amp; meine Eltern merken einfach nichts. Toll.,negative,de,positive,0.9801245331764221,native
+"Ich glaube, der Type hasst seinen Chef wirklich... :-D grins http",positive,de,negative,0.9797452688217163,sentiment_en
+It's so funny watching all the White Supremacists and conspiracy theory nuts attack Mitt Romney.Romney is the only GOP with a spine left. ,positive,en,negative,0.979091465473175,sentiment_en
+It's so funny watching all the White Supremacists and conspiracy theory nuts attack Mitt Romney.Romney is the only GOP with a spine left. ,positive,en,negative,0.979091465473175,native
+Minimum wage is a bandaid. Minimum income is the goal. ,positive,en,negative,0.9789252281188965,native
+Minimum wage is a bandaid. Minimum income is the goal. ,positive,en,negative,0.9789252281188965,sentiment_en
+きもいけどスタイルよき,negative,ja,positive,0.9787533283233643,native
+RT @user: Ich wer narrisch! Schäfer hält einen Elfmeter gegen den #FCB! #FCN #FCN #FCN,positive,de,negative,0.9786719083786011,sentiment_en
+KOUGU維新に敵役こい！ （インパクトもぐら希望）,positive,ja,negative,0.9786617755889893,sentiment_en
+RT @user: Ich wer narrisch! Schäfer hält einen Elfmeter gegen den #FCB! #FCN #FCN #FCN,positive,de,negative,0.9782500267028809,native
+"Ich glaube, der Type hasst seinen Chef wirklich... :-D grins http",positive,de,negative,0.9781354069709778,native
+@user 's coolness @ Barcelona fans #homophobic slurs proves that he's a legend! #Bully @user ,positive,en,negative,0.9781171679496765,native
+@user 's coolness @ Barcelona fans #homophobic slurs proves that he's a legend! #Bully @user ,positive,en,negative,0.9781171679496765,sentiment_en
+@user @user neue Folgen laufen grade. Hen really breaks bad!,positive,de,negative,0.9774892926216125,sentiment_en
+@user Mist. Danke für die Info.,positive,de,negative,0.9772734045982361,default
+トリニク見て思ったけど、やっぱりEXITりんたろー。さんの演技力やばいな。前回のダベってる若者の「わかんない」の言い方。昨日のガム食べてる若者の兼近を見て爆笑するところ。ナチュラル過ぎてほんとにイカれた若者にしか見えない。「嘆かわしい現代の若者」を表現する力に長け過ぎ。,positive,ja,negative,0.9771698117256165,sentiment_en
+まだ泣いてる,positive,ja,negative,0.9765353202819824,sentiment_en
+@user @user toll. Echt super. Beschissene Menschen.,negative,de,positive,0.9764569401741028,native
+@user Mist. Danke für die Info.,positive,de,negative,0.9759922623634338,sentiment_en
+お手洗いに行ったら、何気にドアの傷に目が行った。ダメなことなのに、自分のペットがやったかじりキズは可愛い。,positive,ja,negative,0.9755244851112366,default
+Den ganzen Tag mit verheulten Augen &amp; Tränen in den Augen rumlaufen &amp; meine Eltern merken einfach nichts. Toll.,negative,de,positive,0.9754369258880615,default
+@user #Hatchimals  would melt his heart...and mine. X ,positive,en,negative,0.9752725958824158,default
+"RT @user: #Yesss Wertkarte 6,8 cent pro 32kB macht 2,17 € pro MB oder 2200€ pro GB. Gleiche Menge Datenpaket 4€. DAS nennt man wohl Wuch…",negative,de,positive,0.9749109148979187,default
+Die einfach auch gar nicht zum Rest des Zimmers passt xD,positive,de,negative,0.9740302562713623,default
+そうだホームページを更新しよう。ソースがぐだぐだだから。,positive,ja,negative,0.9732915163040161,native
+"@user @user @user Jaja, schöne Ausrede... :-P",negative,de,positive,0.9728823304176331,default
+優しい所だけをみて浸ってたんだなぁ,negative,ja,positive,0.972727358341217,native
+なんだろ、やっぱバラードを生で聴くとヤバイな…泣く,positive,ja,negative,0.9721382856369019,default
+A.Relentless.Fucking.ExperienceThank you for the wild ride@evanrachelwood @user @user #Westworld ,positive,en,negative,0.9720919728279114,sentiment_en
+A.Relentless.Fucking.ExperienceThank you for the wild ride@evanrachelwood @user @user #Westworld ,positive,en,negative,0.9720919728279114,native
+家のなかは肌寒いけどバルコニーに出るとけっこう暖かい。バルコニーで寝たら気持ちよさそう。よそから見られて、なんでこんなところで寝とるん、と思われたら恥ずかしいのでやめよう。,negative,ja,positive,0.9720721244812012,native
 "アニメは見てないんだけどOs-宇宙人ほんと好きだった
-悲しい気持ちのときに聞くとさらにどん底まで悲しくなるような、当時の精神状態によく合う曲だった",positive,ja,negative,0.998337745666504,native
-ומשה רבינו כתב ובגויים לא תתחתו לא להתערבב עם גויים את זה אתה מעודד אוי לנו לנשיא כזה,negative,he,positive,0.9980156421661376,default
-הלב נקרע,positive,he,negative,0.9979754686355592,native
-מה עוד צריך לפול עליכם שתבינו ?.. חוסר הערכה לעצמכם . פשוט כך .,positive,he,negative,0.9978600144386292,sentiment_en
-עצוב מאוד,positive,he,negative,0.9978063702583312,default
-עצוב מאוד .,positive,he,negative,0.9977726340293884,default
-מלאך קטן הלב נישבר,positive,he,negative,0.9975159764289856,native
-היתי גאה בך כמה שטעיתי .,negative,he,positive,0.9973182082176208,native
+悲しい気持ちのときに聞くとさらにどん底まで悲しくなるような、当時の精神状態によく合う曲だった",positive,ja,negative,0.9718325138092041,native
+RT @user Trump transition statement on alt right conference where neo nazis and white nationalists were praising Trump's election ,negative,en,positive,0.9718057513237,default
+なんだろ、やっぱバラードを生で聴くとヤバイな…泣く,positive,ja,negative,0.971698522567749,native
+@user Okay. @user Machse einfach! EU.,negative,de,positive,0.9710879921913147,sentiment_en
+"Something to fight for: Schumer, Pelosi throw down the gauntlet on @user plan to privatize, voucherize Med… ",positive,en,negative,0.9707710146903992,default
+"Gute Besserung mutee {} RT ""@user: Endlich muss ich zum Arzt gehen :|""",negative,de,positive,0.9706373810768127,default
+まだ泣いてる,positive,ja,negative,0.9705206155776978,default
+Die einfach auch gar nicht zum Rest des Zimmers passt xD,positive,de,negative,0.9704926609992981,native
+Witzige Auseinandersetzung mit Neurosen. mlG. Kurt (@user http,positive,de,negative,0.9698996543884277,native
+Lauter #BreakingBad Links in meinen Posteingang. Freu!,positive,de,negative,0.9697710871696472,native
+こええ,negative,ja,positive,0.9695267677307129,default
+お手洗いに行ったら、何気にドアの傷に目が行った。ダメなことなのに、自分のペットがやったかじりキズは可愛い。,positive,ja,negative,0.9690471291542053,native
+今日は息子の初遠足〔保育園外出〕お弁当の入ったいつもより重いリュックを、一生懸命持つ姿を見るだけでもう泣きそう。,positive,ja,negative,0.9690141677856445,sentiment_en
+"Something to fight for: Schumer, Pelosi throw down the gauntlet on @user plan to privatize, voucherize Med… ",positive,en,negative,0.9687381386756897,sentiment_en
+"Something to fight for: Schumer, Pelosi throw down the gauntlet on @user plan to privatize, voucherize Med… ",positive,en,negative,0.9687381386756897,native
+RT @user: Ich wer narrisch! Schäfer hält einen Elfmeter gegen den #FCB! #FCN #FCN #FCN,positive,de,negative,0.9686343669891357,default
+@user ...okay.,negative,de,positive,0.9685898423194885,default
+@user Okay. @user Machse einfach! EU.,negative,de,positive,0.968171238899231,default
+#POTUSTrump voters are very comfortable with #TrumpTransitionTeam process because the drama reads a lot like #OldTestament:#MAGAforDummies ,negative,en,positive,0.9671397805213928,default
+"「と と とTO-FU！と と と NATTO-！と と と どっちぃも- DAIZU！ HEY YO！」とか、おかしなラップ(？)でムスメをあやす旦那さん(゜ω゜)そして、その変な歌で寝るムスメ(゜ω゜) 何故  
+
+ほほえましいを通り越して、変な歌がツボすぎて美奈子は膝から崩れ落ちて笑ってる＿|‾|○〃",positive,ja,negative,0.9644556641578674,native
+"「と と とTO-FU！と と と NATTO-！と と と どっちぃも- DAIZU！ HEY YO！」とか、おかしなラップ(？)でムスメをあやす旦那さん(゜ω゜)そして、その変な歌で寝るムスメ(゜ω゜) 何故  
+
+ほほえましいを通り越して、変な歌がツボすぎて美奈子は膝から崩れ落ちて笑ってる＿|‾|○〃",positive,ja,negative,0.9643046855926514,sentiment_en
+家のなかは肌寒いけどバルコニーに出るとけっこう暖かい。バルコニーで寝たら気持ちよさそう。よそから見られて、なんでこんなところで寝とるん、と思われたら恥ずかしいのでやめよう。,negative,ja,positive,0.9640939831733704,sentiment_en
+最後にお皿に残った一つを「遠慮のかたまり」と言うんですよね。以前働いていた会社で、「僕は親に『遠慮のかたまりを堂々と食べる人になれ』と言われて育った」と言っていたすごく仕事の出来る人がいました。出来る人は意識も違うんだなと感じました。,positive,ja,negative,0.9619291424751282,native
+先週から、一番嫌いなジャンルのイキモノを飼育中。手で触れるようになったっ！,positive,ja,negative,0.9602034687995911,default
 "息子何回も何回もリンカーン大運動会見てる
 
 運動会いいなぁ、やりたかったなぁって
 
 だなぁ。。。
-",negative,ja,positive,0.9973145723342896,sentiment_en
-Madrid war schoen ANSTRENGED! so viel latschen bockt garnicht...jetzt erstmal richtung Sueden...Und dann in die eigene Butze hartzen!,negative,de,positive,0.997305989265442,native
-הלב מסרב לקבל את לקחיתם של פרחים קטנים שלא הספיקו לפרוח ולשמוח יהי זכרו ברוך נשמה יקרה ו מיוחדת . לבי נקרע,positive,he,negative,0.997246265411377,native
-עצוב,positive,he,negative,0.99683678150177,default
-היתי גאה בך כמה שטעיתי .,negative,he,positive,0.996740996837616,sentiment_en
-הלב נשבר,positive,he,negative,0.9966856837272644,native
-@user Herzliches Beileid.,negative,de,positive,0.9966422319412231,sentiment_en
-"@user Der hat mich vor Monaten geaddet und angeschrieben, meinte, er findet ihn HM nie Freunde bla bla :D",positive,de,negative,0.9964327216148376,native
-@user @user toll. Echt super. Beschissene Menschen.,negative,de,positive,0.9961372017860411,default
-今日は息子の初遠足〔保育園外出〕お弁当の入ったいつもより重いリュックを、一生懸命持つ姿を見るだけでもう泣きそう。,positive,ja,negative,0.996124804019928,native
-優しい所だけをみて浸ってたんだなぁ,negative,ja,positive,0.9959039688110352,sentiment_en
-"アニメは見てないんだけどOs-宇宙人ほんと好きだった
-悲しい気持ちのときに聞くとさらにどん底まで悲しくなるような、当時の精神状態によく合う曲だった",positive,ja,negative,0.9958319067955016,sentiment_en
-まだ泣いてる,positive,ja,negative,0.9955704808235168,native
-優しい所だけをみて浸ってたんだなぁ,negative,ja,positive,0.9954965114593506,default
-Well - we shld be grateful for that home b/c most likely the DT admin will cut it from the budget/put them on the s… ,negative,en,positive,0.9954028129577636,native
-Well - we shld be grateful for that home b/c most likely the DT admin will cut it from the budget/put them on the s… ,negative,en,positive,0.9954028129577636,sentiment_en
-"息子何回も何回もリンカーン大運動会見てる
+",negative,ja,positive,0.9584211111068726,sentiment_en
+"「と と とTO-FU！と と と NATTO-！と と と どっちぃも- DAIZU！ HEY YO！」とか、おかしなラップ(？)でムスメをあやす旦那さん(゜ω゜)そして、その変な歌で寝るムスメ(゜ω゜) 何故  
 
-運動会いいなぁ、やりたかったなぁって
-
-だなぁ。。。
-",negative,ja,positive,0.9953659176826476,default
-"So it's ok when Barack Obama drone strikes and intervenes in foreign conflicts, but Trump plans to continue this an… ",negative,en,positive,0.9948647022247314,default
-@user Herzliches Beileid.,negative,de,positive,0.9947324395179749,native
-なんだろ、やっぱバラードを生で聴くとヤバイな…泣く,positive,ja,negative,0.9945245981216432,native
-優しい所だけをみて浸ってたんだなぁ,negative,ja,positive,0.9943896532058716,native
-"@user weiß nicht so genau...Empfehle Rainald Grebe ""Der Kandidat"": ""ein Vollbart flößt kein Vertrauen ein"" bei Youtube. Großartig!",positive,de,negative,0.9942781925201416,sentiment_en
-LIVE on #Periscope: Justice for Kenneth Chamberlin Sr. #blacklivesmatter ,positive,en,negative,0.9936304092407228,sentiment_en
-LIVE on #Periscope: Justice for Kenneth Chamberlin Sr. #blacklivesmatter ,positive,en,negative,0.9936304092407228,native
-"息子何回も何回もリンカーン大運動会見てる
-
-運動会いいなぁ、やりたかったなぁって
-
-だなぁ。。。
-",negative,ja,positive,0.9934179782867432,native
-なんだろ、やっぱバラードを生で聴くとヤバイな…泣く,positive,ja,negative,0.9933698773384094,sentiment_en
-30 Min into the Westworld-Finale and I’m already like Holy Shit! ,positive,en,negative,0.9930002093315125,native
-30 Min into the Westworld-Finale and I’m already like Holy Shit! ,positive,en,negative,0.9930002093315125,sentiment_en
-@user @user @user @user @user @user @user @user Guten Morgen! :D Ist es bei euch auch so trüb?,positive,de,negative,0.9923705458641052,sentiment_en
-@user @user toll. Echt super. Beschissene Menschen.,negative,de,positive,0.992143988609314,sentiment_en
-LoL HTC baut sein eigenes mobiles OS.. nägel bitte!,negative,de,positive,0.9918116331100464,native
-@user ...okay.,negative,de,positive,0.990440845489502,sentiment_en
-@user ...okay.,negative,de,positive,0.9904216527938844,default
-Madrid war schoen ANSTRENGED! so viel latschen bockt garnicht...jetzt erstmal richtung Sueden...Und dann in die eigene Butze hartzen!,negative,de,positive,0.9903610944747924,sentiment_en
-きもいけどスタイルよき,negative,ja,positive,0.9901682138442992,default
-"Allein die 2 Minuten pralles Leben, sind mehr wert als 20 Jahre Oscar prämierte Hollywood Scheiße http",negative,de,positive,0.990142285823822,sentiment_en
-Keuner Geschichten lesen macht hungrig. :o,positive,de,negative,0.9892132878303528,native
-Madrid war schoen ANSTRENGED! so viel latschen bockt garnicht...jetzt erstmal richtung Sueden...Und dann in die eigene Butze hartzen!,negative,de,positive,0.988176167011261,default
-"RT @user: @user @user Röntgen! Röntgen! Röntgen! WhooooHoooo! Dann kann ich endlich gucken, ob meine Schuhe passen \o/",negative,de,positive,0.9881265163421632,native
-まだ泣いてる,positive,ja,negative,0.9881075620651244,sentiment_en
-@user @user da hast du auch alles recht dazu...manche schalten ihr Hirn nicht ein:-(,negative,de,positive,0.9879735112190248,default
-"Allein die 2 Minuten pralles Leben, sind mehr wert als 20 Jahre Oscar prämierte Hollywood Scheiße http",negative,de,positive,0.9877792000770568,default
-1人だけ春みたいなかっこしててはずい,negative,ja,positive,0.9876610040664672,native
-"@user @user @user Jaja, schöne Ausrede... :-P",negative,de,positive,0.987475574016571,default
-"@user Der hat mich vor Monaten geaddet und angeschrieben, meinte, er findet ihn HM nie Freunde bla bla :D",positive,de,negative,0.9871569871902466,sentiment_en
-@user Ho- Ho- Hochverrat!,negative,de,positive,0.9867039322853088,sentiment_en
-@user super Feature hätte eig die 360 mit smartglass damals schon haben müssen so war SG eig voll überflüssig. Schade :. (,negative,de,positive,0.9860749840736388,default
-@user @user wehe nicht!,negative,de,positive,0.9845708012580872,native
-"Bdw hab dir grade 5 Fragen hintereinander gestellt :P... — Fragen sind immer gut, weiter so! Ich bin nicht so de... http",negative,de,positive,0.9836486577987672,default
-@user @user toll. Echt super. Beschissene Menschen.,negative,de,positive,0.9834338426589966,native
-30分以上遅刻してるけど一応行く,negative,ja,positive,0.983360469341278,default
-Toll nicht schlafen zu können nach der Nachtschicht \o/,negative,de,positive,0.9822736382484436,sentiment_en
-Bannon sure has a keen eye for talent! #TRUMP ,positive,en,negative,0.98187518119812,sentiment_en
-Bannon sure has a keen eye for talent! #TRUMP ,positive,en,negative,0.98187518119812,native
-LoL HTC baut sein eigenes mobiles OS.. nägel bitte!,negative,de,positive,0.98136305809021,sentiment_en
-Minimum wage is a bandaid. Minimum income is the goal. ,positive,en,negative,0.9778752326965332,default
-うらみちお兄さん大好きだからやばい,positive,ja,negative,0.9777904152870178,default
-冠番組！！！（号泣）,positive,ja,negative,0.976270854473114,sentiment_en
-Well - we shld be grateful for that home b/c most likely the DT admin will cut it from the budget/put them on the s… ,negative,en,positive,0.975743293762207,default
-トリニク見て思ったけど、やっぱりEXITりんたろー。さんの演技力やばいな。前回のダベってる若者の「わかんない」の言い方。昨日のガム食べてる若者の兼近を見て爆笑するところ。ナチュラル過ぎてほんとにイカれた若者にしか見えない。「嘆かわしい現代の若者」を表現する力に長け過ぎ。,positive,ja,negative,0.9754201769828796,default
-SPLC's Christian Killer gets 25 years but SPLC gets a pass ,negative,en,positive,0.973773181438446,default
-高い鼻とぱっちりな目に生まれたい人生だった,negative,ja,positive,0.9730453491210938,sentiment_en
-かねちスマホ持って体洗わずにダイレクトに湯舟に入ったんだけど、同居人の「体洗ってから入って〜！！」の悲痛な叫びがめちゃ面白かったｗｗ,positive,ja,negative,0.9724826216697692,sentiment_en
-私にとって内村鑑三先生の「後世への最大遺物」は大感動した本なんだけれど、現代版、後世への最大遺物［読みやすくしました］みたいなやつを大期待で購入したら、逐一感動文面を赤字ででかでかと表示されガッカリした経験がある。編集って大事なんだなぁと思う。私にとって本（文）の静かさって大事。,negative,ja,positive,0.9715149402618408,native
-"兼近を演じるってすごいよね
-そういう怖いことをときどき言うとこ大好き
-",positive,ja,negative,0.970692217350006,sentiment_en
-They smile at you @user for selling arms to Saudi Arabia and at you @user for defending BoomBoomB… ,negative,en,positive,0.9691150188446044,native
-They smile at you @user for selling arms to Saudi Arabia and at you @user for defending BoomBoomB… ,negative,en,positive,0.9691150188446044,sentiment_en
-かねちスマホ持って体洗わずにダイレクトに湯舟に入ったんだけど、同居人の「体洗ってから入って〜！！」の悲痛な叫びがめちゃ面白かったｗｗ,positive,ja,negative,0.9676254987716676,native
-『テロリストのパラソル』/藤原伊織の131pが特別ぐっとくるものだから、もう他はどうでもいい気もする   し、隣のおばさんのコートがモコモコすぎてこちらに侵食してくるのは気になる。もうちょっと圧縮してほしい。,negative,ja,positive,0.966629445552826,default
-Oh my god that Thanksgiving #ThisIsUs episode had me in tears 😭😭😭 ,positive,en,negative,0.9665439128875732,native
-Oh my god that Thanksgiving #ThisIsUs episode had me in tears 😭😭😭 ,positive,en,negative,0.9665439128875732,sentiment_en
-自覚なかったけど マシにはなってきたけど 完璧主義直さないとな、、,negative,ja,positive,0.965615212917328,default
-冠番組！！！（号泣）,positive,ja,negative,0.9656004905700684,native
-せっかくユーフォやチューバという、存在もマイナーで重くて座るポジションも隠れがちな楽器に、スポットライトが当たって喜んでいたのに、なんということ…,negative,ja,positive,0.965059757232666,sentiment_en
-こええ,negative,ja,positive,0.9648688435554504,sentiment_en
-#FantasticBeasts has us thinking of #Dementors. @user explains our new theory ,positive,en,negative,0.9605653882026672,native
-#FantasticBeasts has us thinking of #Dementors. @user explains our new theory ,positive,en,negative,0.9605653882026672,sentiment_en
-@user #Liberals #Premier #KathleenWynne helped #AG @user escape her #FailureOfDuties! via ,negative,en,positive,0.9605648517608644,default
-Lol @ people who think that vaccines just suddenly cause autism ,negative,en,positive,0.9548059105873108,native
-Lol @ people who think that vaccines just suddenly cause autism ,negative,en,positive,0.9548059105873108,sentiment_en
-Presumably we took all that gold for saving all those 'lives'. Sounds much better than saying we mugged #Libya and… ,negative,en,positive,0.9450907707214355,default
-"Normal, non-violent people with immigration concerns are now far right depending on whom you're talking to ",negative,en,positive,0.943045973777771,native
-"Normal, non-violent people with immigration concerns are now far right depending on whom you're talking to ",negative,en,positive,0.943045973777771,sentiment_en
-"Normal, non-violent people with immigration concerns are now far right depending on whom you're talking to ",negative,en,positive,0.9411985278129578,default
-"Good riddance to #FidelCastro, now can that SOB Nicolas Maduro be the next to go? ",negative,en,positive,0.9362403750419616,native
-"Good riddance to #FidelCastro, now can that SOB Nicolas Maduro be the next to go? ",negative,en,positive,0.9362403750419616,sentiment_en
-OH GOD WHAT EVEN IS EDDIE REDMAYNE? can I pack him in a suitcase? 😭😭 #fantasticbeasts ,positive,en,negative,0.9316748976707458,sentiment_en
-OH GOD WHAT EVEN IS EDDIE REDMAYNE? can I pack him in a suitcase? 😭😭 #fantasticbeasts ,positive,en,negative,0.9316748976707458,native
+ほほえましいを通り越して、変な歌がツボすぎて美奈子は膝から崩れ落ちて笑ってる＿|‾|○〃",positive,ja,negative,0.9571377635002136,default
+"@user @user I learned Basket Weaving for my deplorables.And I love a good mani/pedi & couples massage with you, handsome 😘 ",positive,en,negative,0.9565860629081726,default
+@user 's coolness @ Barcelona fans #homophobic slurs proves that he's a legend! #Bully @user ,positive,en,negative,0.951599657535553,default
+OH GOD WHAT EVEN IS EDDIE REDMAYNE? can I pack him in a suitcase? 😭😭 #fantasticbeasts ,positive,en,negative,0.9474905133247375,native
+OH GOD WHAT EVEN IS EDDIE REDMAYNE? can I pack him in a suitcase? 😭😭 #fantasticbeasts ,positive,en,negative,0.9474905133247375,sentiment_en
+"Bearakeet, Burtle, Draggle, Penguala for sale! DM me before they are all gone! #Hatchimals #hatchimal #blackfriday… ",positive,en,negative,0.9458638429641724,sentiment_en
+"Bearakeet, Burtle, Draggle, Penguala for sale! DM me before they are all gone! #Hatchimals #hatchimal #blackfriday… ",positive,en,negative,0.9458638429641724,native
+Well - we shld be grateful for that home b/c most likely the DT admin will cut it from the budget/put them on the s… ,negative,en,positive,0.9436339735984802,native
+Well - we shld be grateful for that home b/c most likely the DT admin will cut it from the budget/put them on the s… ,negative,en,positive,0.9436339735984802,sentiment_en
+It's so funny watching all the White Supremacists and conspiracy theory nuts attack Mitt Romney.Romney is the only GOP with a spine left. ,positive,en,negative,0.9369228482246399,default
+A.Relentless.Fucking.ExperienceThank you for the wild ride@evanrachelwood @user @user #Westworld ,positive,en,negative,0.9331391453742981,default
