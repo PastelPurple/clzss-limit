@@ -1,0 +1,9 @@
+language,comparison,p_value
+de,default vs sentiment_en,0.0932899561836034
+de,sentiment_en vs native,0.17629637444050728
+en,default vs sentiment_en,0.17573433564422125
+en,sentiment_en vs native,0.0
+he,default vs sentiment_en,0.5186050164287255
+he,sentiment_en vs native,0.1858767323658721
+ja,default vs sentiment_en,1.1305370472792268e-05
+ja,sentiment_en vs native,0.5509849875850935
